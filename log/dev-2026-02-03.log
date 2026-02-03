@@ -8,3 +8,27 @@
 └ @ GenieAutoReload /home/siva/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
 ┌ Info: 2026-02-03 22:50:50 Server on 127.0.0.1:8000 closing
 └ @ HTTP.Servers /home/siva/.julia/packages/HTTP/ShTJs/src/Servers.jl:409
+┌ Info: 2026-02-03 22:53:07 Watching ["/home/siva/datascience/judock"]
+└ @ GenieAutoReload /home/siva/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-02-03 22:53:11 Web Server starting at http://127.0.0.1:8000 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server /home/siva/.julia/packages/Genie/10p19/src/Server.jl:194
+┌ Info: 2026-02-03 22:53:12 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/siva/.julia/packages/HTTP/ShTJs/src/Servers.jl:382
+┌ Info: 2026-02-03 22:53:16 Autoreloading
+└ @ GenieAutoReload /home/siva/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-02-03 22:54:47 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /home/siva/.julia/packages/HTTP/ShTJs/src/Servers.jl:409
+┌ Info: 2026-02-03 23:02:21 Watching ["/home/siva/datascience/judock"]
+└ @ GenieAutoReload /home/siva/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:19
+┌ Info: 2026-02-03 23:02:31 Web Server starting at http://127.0.0.1:8000 - press Ctrl/Cmd+C to stop the server. 
+└ @ Genie.Server /home/siva/.julia/packages/Genie/10p19/src/Server.jl:194
+┌ Info: 2026-02-03 23:02:32 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /home/siva/.julia/packages/HTTP/ShTJs/src/Servers.jl:382
+┌ Error: 2026-02-03 23:02:38 InterruptException()
+└ @ Genie.Watch /home/siva/.julia/packages/Genie/10p19/src/Watch.jl:72
+┌ Info: 2026-02-03 23:02:56 Autoreloading
+└ @ GenieAutoReload /home/siva/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-02-03 23:03:10 Autoreloading
+└ @ GenieAutoReload /home/siva/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
+┌ Info: 2026-02-03 23:03:16 Autoreloading
+└ @ GenieAutoReload /home/siva/.julia/packages/GenieAutoReload/qpImd/src/GenieAutoReload.jl:22
